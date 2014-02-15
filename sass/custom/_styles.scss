@@ -1,10 +1,13 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-ul.contact {
-  margin-left: .8em;
-  margin-bottom: 0;
-  float: right;
-  list-style: none;
-  position: relative; top: .2em; li, a { border: 0; padding: 0; }
-  a[rel=contact-email]{ @include mask-subscription-nav('email.png'); }
+ul {
+  list-style: circle;
+  .contact {
+    margin-left: .8em;
+    margin-bottom: 0;
+    float: right;
+    list-style: none;
+    position: relative; top: .2em; li, a { border: 0; padding: 0; }
+    a[rel=contact-email]{ @include mask-subscription-nav('email.png'); }
+  }
 }
