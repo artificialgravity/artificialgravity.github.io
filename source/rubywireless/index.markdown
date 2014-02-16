@@ -7,11 +7,9 @@ sidebar: false
 footer: true
 ---
 
-{% img /images/rubywireless/logo.png %}
-Ruby Wireless
-
-* [Online Demo &raquo](http://demo.rubywireless.com/users/sign_in)
-* [Free Trial &raquo](https://rubywireless.com/agents/new)
+# {% img /images/rubywireless/logo.png %} Ruby Wireless
+[Online Demo &raquo](http://demo.rubywireless.com/users/sign_in)
+[Free Trial &raquo](https://rubywireless.com/agents/new)
 
 {% img right /images/rubywireless/globe.png Availability %}
 
