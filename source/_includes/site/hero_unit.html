@@ -1,0 +1,13 @@
+<!-- <img class="gravatar" src="/images/gravatar.jpg" alt="{{ site.author }}'s Picture"{% if site.email and site.gravatar != false %} data-gravatar="{{ site.email }}"{% endif %}> -->
+<div class="hero">
+  <div class="grid-wrapper">
+    <div class="grid flex">
+      <div class="grid__item flex__item two-fifths palm-one-whole">
+        <img src="/images/rubywireless/logo_large.png" alt="RubyWireless">
+      </div>
+      <div class="grid__item flex__item three-fifths palm-one-whole frosted">
+      {% include custom/welcome.html %}
+      </div>
+    </div>
+  </div>
+</div>

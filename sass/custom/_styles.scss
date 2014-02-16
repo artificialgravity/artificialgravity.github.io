@@ -1,16 +1,35 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
-ul.contact {
-  margin-left: .8em;
-  margin-bottom: 0;
-  float: right;
-  list-style: none;
-  position: relative; top: .2em; li, a { border: 0; padding: 0; }
-  a[rel=contact-email]{ @include mask-subscription-nav('email.png'); }
-}
 
-article > h1 {
-  font-size: 72px;
-  color: darkgrey;
-  line-height: 80px;
+// this was used in the default theme, keeping around for now
+//ul.contact {
+//  margin-left: .8em;
+//  margin-bottom: 0;
+//  float: right;
+//  list-style: none;
+//  position: relative; top: .2em; li, a { border: 0; padding: 0; }
+//  a[rel=contact-email]{ @include mask-subscription-nav('email.png'); }
+//}
+
+product {
+  h3 {
+    img {
+      vertical-align: middle;
+    }
+    color:$blue;
+    font-weight:normal;
+    margin: .6em 0;
+  }
+
+  ul > div {
+    color: $grayLight;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+
+  li {
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 30px;
+  }
 }
