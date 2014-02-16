@@ -4,11 +4,11 @@
   <title><![CDATA[Artificial Gravity]]></title>
   <link href="http://artificialgravity.github.io/atom.xml" rel="self"/>
   <link href="http://artificialgravity.github.io/"/>
-  <updated>2014-02-15T10:19:56-05:00</updated>
+  <updated>2014-02-15T19:01:56-05:00</updated>
   <id>http://artificialgravity.github.io/</id>
   <author>
     <name><![CDATA[Chris Barnes]]></name>
-    
+    <email><![CDATA[info@artificialgravity.co]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 

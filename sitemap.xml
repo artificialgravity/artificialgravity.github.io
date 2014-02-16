@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://artificialgravity.github.io/blog/archives/</loc>
-        <lastmod>2014-02-14T23:10:13-05:00</lastmod>
+        <lastmod>2014-02-15T13:20:54-05:00</lastmod>
     </url>
     <url>
         <loc>http://artificialgravity.github.io/</loc>
@@ -11,5 +11,9 @@
     <url>
         <loc>http://artificialgravity.github.io/robots.txt</loc>
         <lastmod>2014-02-14T23:10:13-05:00</lastmod>
+    </url>
+    <url>
+        <loc>http://artificialgravity.github.io/rubywireless/</loc>
+        <lastmod>2014-02-15T18:57:26-05:00</lastmod>
     </url>
 </urlset>
