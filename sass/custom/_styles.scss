@@ -32,4 +32,19 @@ product {
     font-weight: 200;
     line-height: 30px;
   }
+
+  .grid__item {
+    padding-left: 48px;
+  }
+}
+
+body > header .subtitle {
+  font-family: $header-subtitle-font-family;
+  font-size: .8em;
+  color: $grayLight;
+}
+
+body > header img {
+  vertical-align: -18px;
+  margin-right: 8px;
 }
