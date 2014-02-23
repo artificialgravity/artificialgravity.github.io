@@ -4,7 +4,7 @@
   <title><![CDATA[Artificial Gravity]]></title>
   <link href="http://artificialgravity.github.io/atom.xml" rel="self"/>
   <link href="http://artificialgravity.github.io/"/>
-  <updated>2014-02-19T18:21:04-05:00</updated>
+  <updated>2014-02-22T22:46:14-05:00</updated>
   <id>http://artificialgravity.github.io/</id>
   <author>
     <name><![CDATA[Chris Barnes]]></name>
@@ -12,5 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://artificialgravity.github.io/blog/hello-world/"/>
+    <updated>2014-02-19T18:42:14-05:00</updated>
+    <id>http://artificialgravity.github.io/blog/hello-world</id>
+    <content type="html"><![CDATA[<p><em>Welcome to the official blog of Artificial Gravity Inc, Software is our passion.</em></p>
+
+<p>Hi, my name is <a href="http://randomutterings.com">Chris Barnes</a>, <img class="left card" src="https://s2.yimg.com/sk/3665/12653775913_20208f21e5_n.jpg" width="220" title="Photo of Chris Barnes" >
+I&rsquo;m the company&rsquo;s founder and I&rsquo;ll be writing most of the articles here.  Our flagship product is RubyWireless, a Point of Sale system for US Cellular Agents.  The blog is a place for us to post updates, screencasts, and general news about the company.  Most articles will have a link to the <a href="https://plus.google.com/100945199987484580489/posts/NYgqfrSG6DU">Comments on Google+</a>.  Feedback is encouraged!  Let me introduce you to the rest of the team.</p>
+
+<p><img class="right card" src="http://farm6.staticflickr.com/5540/12650386174_55aaa86884_n.jpg" width="200" title="Photo of Angela" >
+In addition to being our corporate accountant and tax advisor, Angela will also be your point of contact for help with billing and any questions you may have about getting data out of RubyWireless and into your accounting software.  She has a lifetime of experience in bookkeeping, accounting, and tax preparation too, so if you&rsquo;re a new agent needing those services, she&rsquo;s highly recommended.</p>
+
+<p><img class="left card" src="https://ycpi-farm6.staticflickr.com/5515/12649894875_50aa89c26e_n.jpg" width="260" title="Photo of Jaytee" > Jaytee is the official/unofficial spokesperson for RubyWireless.  He&rsquo;s also the general manager of Sunshine Wireless, a succesful agent in the ENC market, so if you want the low down on our system from an Agent&rsquo;s prospective, he&rsquo;s the guy to talk to.  He&rsquo;s been involved in the development of RubyWireless since the beginning.  He also helps us out with training and while he doesn&rsquo;t advertise it, his sales experience is something you should definitely take advantage of when he&rsquo;s onsite.</p>
+
+<p><img class="right card" src="http://farm4.staticflickr.com/3704/12649884625_e256799152_n.jpg" width="200" title="Photo of Melissa" >
+As a client, you&rsquo;ll likely talk with Melissa at some point.  A crucial member of the team, she answers the phones, sets up callbacks for accounting and technical help, and schedules demos.</p>
+
+<p>She also often reminds the rest of us to stop and eat!</p>
+
+<p><a href="https://plus.google.com/100945199987484580489/posts/NYgqfrSG6DU">Comments on Google+</a></p>
+]]></content>
+  </entry>
   
 </feed>
