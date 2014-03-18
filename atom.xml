@@ -4,7 +4,7 @@
   <title><![CDATA[Artificial Gravity]]></title>
   <link href="http://artificialgravity.github.io/atom.xml" rel="self"/>
   <link href="http://artificialgravity.github.io/"/>
-  <updated>2014-02-23T00:18:05-05:00</updated>
+  <updated>2014-03-17T22:07:00-04:00</updated>
   <id>http://artificialgravity.github.io/</id>
   <author>
     <name><![CDATA[Chris Barnes]]></name>
@@ -12,6 +12,34 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Moving Support to FreshDesk]]></title>
+    <link href="http://artificialgravity.github.io/blog/moving-support-to-freshdesk/"/>
+    <updated>2014-03-17T20:20:52-04:00</updated>
+    <id>http://artificialgravity.github.io/blog/moving-support-to-freshdesk</id>
+    <content type="html"><![CDATA[<p><em>Announcing a Better, Faster and Smoother Support Process</em></p>
+
+<p>As part of our continuous effort to give you a better experience, we have just migrated our customer support processes to Freshdesk.  This change will allow us to focus our effort on making RubyWireless better, and letting the folks at FreshDesk make our Help &amp; Support system better.</p>
+
+<p><a href="http://artificialgravity.freshdesk.com" target="_blank"><img class="left" src="http://artificialgravity.github.io/images/screenshots/freshdesk.png" width="400" title="Screenshot of Support Site" ></a></p>
+
+<p>How does this make a difference to you?</p>
+
+<p>Not a lot changes in terms of how you get in touch with us. You can shoot us an email to <a href="mailto:support@artificialgravity.co">support@artificialgravity.co</a>, and our support system will automatically create a ticket on your behalf. You will also be notified of our responses and status changes to your tickets via email as well, and you can send out your replies directly.</p>
+
+<p>The first time you send us a support email, you will receive an email with activation instructions to login to our support site at artificialgravity.freshdesk.com. Going forward, you can check the status or add comments to your support queries here.  For convenience, the help menu in RubyWireless now has a link to the new support site and a direct link to your support tickets.</p>
+
+<p>All open tickets in our old support system have been migrated to FreshDesk.  If you had an open ticket in the old system, you&rsquo;ll receive an email with activations instructions automatically.</p>
+
+<p><a href="http://rubywireless.com" target="_blank"><img class="right" src="http://artificialgravity.github.io/images/screenshots/support_quicklink.png" width="400" title="Screenshot of Support Link" ></a>There&rsquo;s also a new Support &ldquo;Quick Link&rdquo; at the top of each page.  Clicking the link will allow you to send a support request without leaving the page you&rsquo;re on.  It also allows you to include a screenshot to help describe your issue.</p>
+
+<p>We are actively populating our support portal with FAQs and solutions in our knowledge base, so you can help yourself to how-tos and instructions.</p>
+
+<p>We love hearing from you
+If you have any doubts or queries regarding our new support tools and policies, please drop us a line at support@artificialgravity.co, and we’ll be glad to assist you.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Hello World]]></title>
